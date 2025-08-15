@@ -1,0 +1,14 @@
+{
+  "owner": {
+    "username": "ananya1026",
+    "email": "kumariananya223@gmail.com"
+  },
+  "record": {
+    "A": ["65.2.124.166"],
+    "subdomains": {
+      "admin": {
+        "A": ["65.2.124.166"]
+      }
+    }
+  }
+}
