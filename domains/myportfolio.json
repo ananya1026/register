@@ -1,11 +1,11 @@
 {
-    "description": "Portfolio website",
-    "repo": "https://github.com/ananya1026/MyPortfolio/ananya1026.github.io",
+    "description": "My Pet Adoption App",
+    "repo": "https://github.com/ananya1026/pet-adoption-app",
     "owner": {
         "username": "ananya1026",
         "email": "kumariananya223@gmail.com"
     },
     "records": {
-        "CNAME": "ananya1026.github.io"
+        "CNAME": "pet-adoption-app-1veb.onrender.com"
     }
 }
